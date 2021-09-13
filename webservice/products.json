@@ -1,0 +1,38 @@
+[
+    {
+        "productid" :1 ,
+        "Manufacturer": "M1",
+        "sku":"Msku1",
+        "upc":"upc1",
+        "priceperunit": "11.001",
+        "quantityOnHand":567,
+        "productName": "Lamp shade"
+    },
+    {
+        "productid" :2 ,
+        "Manufacturer": "M2",
+        "sku":"Msku2",
+        "upc":"upc2",
+        "priceperunit": "21.001",
+        "quantityOnHand":267,
+        "productName": " shade"
+    },
+    {
+        "productid" : 3 ,
+        "Manufacturer": "M3",
+        "sku":"Msku3",
+        "upc":"upc3",
+        "priceperunit": "11.003",
+        "quantityOnHand":36,
+        "productName": "33 shade"
+    },
+    {
+        "productid" : 4 ,
+        "Manufacturer": "M4",
+        "sku":"Msku3",
+        "upc":"upc3",
+        "priceperunit": "11.003",
+        "quantityOnHand":36,
+        "productName": "33 shade"
+    }
+]
